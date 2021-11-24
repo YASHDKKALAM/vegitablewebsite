@@ -1,0 +1,55 @@
+#logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 15vw;
+  width: 25vw;
+}
+#main1{
+    background-color: rgb(10, 10, 10);
+    color: gold;
+}
+#main{
+    font-size: 40px;
+    color: gold;
+    padding-top: 20px;
+}
+#A{
+    font-size: 40px;
+    color: rgb(253, 250, 250);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 2vmax;
+}
+#farmer{
+    font-size: 2vmax;
+    color: rgb(39, 175, 5);
+    padding: 0.5vw 0.5vw 0.5vw 0.5vw;
+}
+#second{
+    height: 310px;
+    
+}
+#third{
+    height: 300px;
+}
+#line{
+    font-size:20px;
+}
+
+#border{
+    color: #000;
+    font-family: Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
+    font-size: 2.5vmax;
+}
+#h3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    height: 50px;
+    background-color: black;
+}
